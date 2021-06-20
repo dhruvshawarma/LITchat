@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160010950689",
+    "project_id": "litchat-1b8ef",
+    "storage_bucket": "litchat-1b8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160010950689:android:454fa914253b970dad2b60",
+        "android_client_info": {
+          "package_name": "com.example.lit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160010950689-4hjtnug2eibub8dhms9ipghbdjate3ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lit_chat",
+            "certificate_hash": "fb7300a09b3329307af321051a45954ae6c76c9f"
+          }
+        },
+        {
+          "client_id": "160010950689-tguthlqc41dd9mqlbu6esn36tg3ef03i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnx4mz6mpB3iu7InIZNgS0ALWVnfrg-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160010950689-tguthlqc41dd9mqlbu6esn36tg3ef03i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
